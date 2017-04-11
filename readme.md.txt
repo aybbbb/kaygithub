@@ -1,1 +1,1 @@
-git subject
+git subject.
