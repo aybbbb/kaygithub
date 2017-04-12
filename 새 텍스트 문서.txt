@@ -15,6 +15,7 @@
          <li>what branch?</li>
 	 <li>branch</li>
 	 <li>colsion</li>
+	 <li>원격저장소</li>
 	</ul>
 	
 	</body>
