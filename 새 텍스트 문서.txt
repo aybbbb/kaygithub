@@ -10,7 +10,8 @@
 	    <header>
 		<h1>GIT</h1>
 	    </header>
-	<ul> 
+	<ul>
+	 <li>sync.egoing</li> 
 	 <li>git?</li>
 	 <li>version</li>
          <li>what branch?</li>
