@@ -25,7 +25,7 @@
 	 <li>sync</li>
 	 <li>push.egoing</li>
 	 <li>pull.leechae</li>
-	 <li>conflict.egoing</li>
+	 <li>conflict.egoing.leechae</li>
 	</ul>
 	
 	</body>
