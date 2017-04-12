@@ -1,6 +1,7 @@
 ﻿<html>
 
  <head>
+     <meta charest="UTF-8" />
      <title> git</title>
 
  </head>
