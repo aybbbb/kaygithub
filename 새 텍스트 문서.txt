@@ -15,6 +15,7 @@
          <li>what branch?</li>
 	 <li>branch</li>
 	 <li>colsion</li>
+	 <li>resolve</li>
 	</ul>
 	
 	</body>
